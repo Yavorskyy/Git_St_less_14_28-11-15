@@ -5,3 +5,4 @@ def linear_factorial(x):
     return result
 
 linear_factorial(500)
+print
