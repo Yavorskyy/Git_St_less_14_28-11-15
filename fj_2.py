@@ -1,5 +1,5 @@
 sister_age = 55
-broser_age = 55
+broser_age = 5
 if sister_age > broser_age:
     print("sister is older")
 elif broser_age > sister_age:
